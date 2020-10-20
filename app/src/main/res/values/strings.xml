@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BurguerBuilder</string>
+    <string name="lblBurguer" >Burguer</string>
+    <string name="lblPrices" >Precios</string>
+    <string name="lblTotal" >Total</string>
+    <string name="lblCurrency" />
+    <string name="lblIngredientSelection" >Seleccionar Ingredientes</string>
 </resources>
